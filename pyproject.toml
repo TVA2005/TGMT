@@ -1,7 +1,7 @@
 [project]
-name = "tgmt"
+name = "cv-day2-rbg"
 version = "0.1.0"
-description = "Computer vision learning project"
+description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
