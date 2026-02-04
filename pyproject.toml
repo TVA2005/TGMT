@@ -1,0 +1,13 @@
+[project]
+name = "tgmt"
+version = "0.1.0"
+description = "Computer vision learning project"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.1",
+    "opencv-python>=4.13.0.90",
+    "pillow>=12.1.0",
+    "requests>=2.32.5",
+]
